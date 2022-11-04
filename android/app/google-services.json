@@ -1,76 +1,48 @@
 {
   "project_info": {
-    "project_number": "28702742904",
-    "project_id": "sample-reactnative-calls",
-    "storage_bucket": "sample-reactnative-calls.appspot.com"
+    "project_number": "923134938745",
+    "project_id": "itruck-dev-test",
+    "storage_bucket": "itruck-dev-test.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:28702742904:android:379cf2df1da666e4ee508d",
+        "mobilesdk_app_id": "1:923134938745:android:eca162df92da00c7d38ea8",
         "android_client_info": {
-          "package_name": "com.sendbird.calls.reactnative.sample.app"
+          "package_name": "kr.itruck.mobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "28702742904-pa0bb4hpdjhure7ddi4v8p9qiuetphf0.apps.googleusercontent.com",
+          "client_id": "923134938745-7f9tdontoqkj3hkjqlv9d8o1iidofl47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.itruck.mobile",
+            "certificate_hash": "073f5f8475606133ec47c0c70e8f172f530f6485"
+          }
+        },
+        {
+          "client_id": "923134938745-9j7b8i3p078d69ivvct06nogefo7aeu4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBqV072kG_4hwIdNpi31IxGcRy4TNRgE6w"
+          "current_key": "AIzaSyA45067MZBa5S-RgDxoR6K4FhBZQnfErCs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "28702742904-pa0bb4hpdjhure7ddi4v8p9qiuetphf0.apps.googleusercontent.com",
+              "client_id": "923134938745-9j7b8i3p078d69ivvct06nogefo7aeu4.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "28702742904-u59scgl349g6h2u2kdb7m48dtcs2o9v4.apps.googleusercontent.com",
+              "client_id": "923134938745-4ma18ka1m1aqkh648cecckqrhro60mka.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sendbird.calls.reactnative.sample.app"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:28702742904:android:25d8f111ed55dd68ee508d",
-        "android_client_info": {
-          "package_name": "com.sendbird.calls.rn.quickstart.directcall"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "28702742904-pa0bb4hpdjhure7ddi4v8p9qiuetphf0.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBqV072kG_4hwIdNpi31IxGcRy4TNRgE6w"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "28702742904-pa0bb4hpdjhure7ddi4v8p9qiuetphf0.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "28702742904-u59scgl349g6h2u2kdb7m48dtcs2o9v4.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.sendbird.calls.reactnative.sample.app"
+                "bundle_id": "com.itruck"
               }
             }
           ]

@@ -25,7 +25,7 @@ import Palette from './src/styles/palette';
 import { AppLogger } from './src/utils/logger';
 
 // SendbirdCalls.Logger.setLogLevel('debug');
-SendbirdCalls.initialize('SAMPLE_APP_ID');
+SendbirdCalls.initialize('EC478415-E6B6-4B80-8652-F0B7DD00BDF5');
 
 // For iOS, use ringtoneSound of callkit
 if (Platform.OS === 'android') {
